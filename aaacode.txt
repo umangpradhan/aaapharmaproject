@@ -1,0 +1,1440 @@
+
+<!DOCTYPE html>
+<html lang="en-US"  data-menu="leftalign">
+<head>
+
+<link rel="profile" href="//gmpg.org/xfn/11" />
+
+ 
+
+<title>AAA PHARMA</title>
+            <script type="text/javascript"> var epic_ajax_url = 'https://aaapharma.in/?epic-ajax-request=epic-ne'; </script>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="AAA PHARMA &raquo; Feed" href="https://aaapharma.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AAA PHARMA &raquo; Comments Feed" href="https://aaapharma.in/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aaapharma.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://aaapharma.in/wp-includes/css/dist/block-library/style.min.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://aaapharma.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-ui-css'  href='https://aaapharma.in/wp-content/plugins/metform/public/assets/css/metform-ui.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-style-css'  href='https://aaapharma.in/wp-content/plugins/metform/public/assets/css/style.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://aaapharma.in/wp-includes/css/dashicons.min.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-reset-css-css'  href='https://aaapharma.in/wp-content/themes/avante/css/core/reset.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-wordpress-css-css'  href='https://aaapharma.in/wp-content/themes/avante/css/core/wordpress.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-screen-css'  href='https://aaapharma.in/wp-content/themes/avante/css/core/screen.css?ver=5.6.7' type='text/css' media='all' />
+<style id='avante-screen-inline-css' type='text/css'>
+
+                	@font-face {
+	                	font-family: "GlacialIndifference-Regular";
+	                	src: url(https://aaapharma.in/wp-content/themes/avante/fonts/GlacialIndifference-Regular.woff) format("woff");
+	                	font-weight: 400;
+						font-style: normal;
+	                }
+                
+                	@font-face {
+	                	font-family: "GlacialIndifference-Bold";
+	                	src: url(https://aaapharma.in/wp-content/themes/avante/fonts/GlacialIndifference-Bold.woff) format("woff");
+	                	font-weight: 700;
+						font-style: normal;
+	                }
+                
+</style>
+<link rel='stylesheet' id='modulobox-css'  href='https://aaapharma.in/wp-content/themes/avante/css/modulobox.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-left-align-menu-css'  href='https://aaapharma.in/wp-content/themes/avante/css/menus/left-align-menu.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icons-css'  href='https://aaapharma.in/wp-content/themes/avante/css/themify-icons.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tooltipster-css'  href='https://aaapharma.in/wp-content/themes/avante/css/tooltipster.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='loftloader-lite-animation-css'  href='https://aaapharma.in/wp-content/plugins/loftloader/assets/css/loftloader.min.css?ver=2020081301' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-30-css'  href='https://aaapharma.in/wp-content/uploads/elementor/css/post-30.css?ver=1613636478' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/css/swiper.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='justifiedGallery-css'  href='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/css/justifiedGallery.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='flickity-css'  href='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/css/flickity.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-elementor-css'  href='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/css/avante-elementor.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-elementor-responsive-css'  href='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/css/avante-elementor-responsive.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-css-formpicker-control-editor-css'  href='https://aaapharma.in/wp-content/plugins/metform/controls/assets/css/form-picker-editor.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-4074-css'  href='https://aaapharma.in/wp-content/uploads/elementor/css/post-4074.css?ver=1628231379' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='epic-icon-css'  href='https://aaapharma.in/wp-content/plugins/epic-news-element/assets/fonts/jegicon/jegicon.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='epic-style-css'  href='https://aaapharma.in/wp-content/plugins/epic-news-element/assets/css/style.min.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avante-script-responsive-css-css'  href='https://aaapharma.in/wp-content/themes/avante/css/core/responsive.css?ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-global-css'  href='https://aaapharma.in/wp-content/themes/avante/modules/kirki/assets/css/kirki-styles.css?ver=3.0.21' type='text/css' media='all' />
+<style id='kirki-styles-global-inline-css' type='text/css'>
+#right-click-content{background:rgba(0, 0, 0, 0.5);color:#ffffff;}body, input[type=text], input[type=password], input[type=email], input[type=url], input[type=date], input[type=tel], input.wpcf7-text, .woocommerce table.cart td.actions .coupon .input-text, .woocommerce-page table.cart td.actions .coupon .input-text, .woocommerce #content table.cart td.actions .coupon .input-text, .woocommerce-page #content table.cart td.actions .coupon .input-text, select, textarea, .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button, .ui-widget label, .ui-widget-header, .zm_alr_ul_container{font-family:Roboto;font-size:16px;font-weight:400;letter-spacing:0px;line-height:1.8;text-transform:none;}h1, h2, h3, h4, h5, h6, h7, .post_quote_title, strong[itemprop="author"], #page-content-wrapper .posts.blog li a, .page-content-wrapper .posts.blog li a, #filter_selected, blockquote, .sidebar-widget li.widget_products, #footer ul.sidebar-widget li ul.posts.blog li a, .woocommerce-page table.cart th, table.shop_table thead tr th, .testimonial_slider_content, .pagination, .pagination-detail{font-family:Cabin;font-weight:700;letter-spacing:0px;line-height:1.6;text-transform:none;}h1{font-size:32px;}h2{font-size:28px;}h3{font-size:24px;}h4{font-size:22px;}h5{font-size:20px;}h6{font-size:18px;}body, #wrapper, #page-content-wrapper.fixed, #gallery_lightbox h2, .slider_wrapper .gallery_image_caption h2, #body_loading_screen, h3#reply-title span, .overlay_gallery_wrapper, .pagination a, .pagination span, #captcha-wrap .text-box input, .flex-direction-nav a, .blog_promo_title h6, #supersized li, #horizontal_gallery_wrapper .image_caption, body.password-protected #page-content-wrapper .inner .inner-wrapper .sidebar-content, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"], #single-course-meta{background-color:#ffffff;}body, .pagination a, #gallery_lightbox h2, .slider_wrapper .gallery_image_caption h2, .post_info a, #page-content-wrapper.split #copyright, .page-content-wrapper.split #copyright, .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited, .woocommerce-MyAccount-navigation ul a, .woocommerce #page-content-wrapper div.product p.price, .woocommerce-page #page-content-wrapper div.product p.price{color:#000000;}::selection, .verline{background-color:#000000;}::-webkit-input-placeholder{color:#000000;}::-moz-placeholder{color:#000000;}:-ms-input-placeholder{color:#000000;}a, .gallery_proof_filter ul li a, #page-content-wrapper .sidebar .content .sidebar-widget li.widget_rss ul li cite, #footer-wrapper ul.sidebar-widget li.widget_rss ul li cite{color:#000000;}.flex-control-paging li a.flex-active, .post-attribute a:before, #menu-wrapper .nav ul li a:before, #menu-wrapper div .nav li > a:before, .post-attribute a:before{background-color:#000000;}.flex-control-paging li a.flex-active, .image_boxed_wrapper:hover, .gallery_proof_filter ul li a.active, .gallery_proof_filter ul li a:hover{border-color:#000000;}a:hover, a:active, .post_info_comment a i, #commentform .required, #page-content-wrapper .sidebar .content .sidebar-widget li.widget_rss ul li .rss-date, #footer-wrapper ul.sidebar-widget li.widget_rss ul li .rss-date{color:#57B957;}input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active, #menu-wrapper .nav ul li a:hover:before, #menu-wrapper div .nav li > a:hover:before, .post-attribute a:hover:before{background-color:#57B957;}input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active, .sidebar-widget li.widget_recent_comments ul li.recentcomments a:hover{border-color:#57B957;}h1, h2, h3, h4, h5, h6, h7, pre, code, tt, blockquote, .post-header h5 a, .post-header h3 a, .post-header.grid h6 a, .post-header.fullwidth h4 a, .post-header h5 a, blockquote, .site_loading_logo_item i, .ppb_subtitle, .woocommerce .woocommerce-ordering select, .woocommerce #page-content-wrapper a.button, .woocommerce.columns-4 ul.products li.product a.add_to_cart_button, .woocommerce.columns-4 ul.products li.product a.add_to_cart_button:hover, .ui-accordion .ui-accordion-header a, .tabs .ui-state-active a, .post-header h5 a, .post-header h6 a, .flex-direction-nav a:before, .social_share_button_wrapper .social_post_view .view_number, .social_share_button_wrapper .social_post_share_count .share_number, .portfolio_post_previous a, .portfolio_post_next a, #filter_selected, #autocomplete li strong, .themelink, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .ui-dialog-titlebar .ui-dialog-title, body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .ui-dialog-titlebar .ui-dialog-title{color:#000000;}body.page.page-template-gallery-archive-split-screen-php #fp-nav li .active span, body.tax-gallerycat #fp-nav li .active span, body.page.page-template-portfolio-fullscreen-split-screen-php #fp-nav li .active span, body.page.tax-portfolioset #fp-nav li .active span, body.page.page-template-gallery-archive-split-screen-php #fp-nav ul li a span, body.tax-gallerycat #fp-nav ul li a span, body.page.page-template-portfolio-fullscreen-split-screen-php #fp-nav ul li a span, body.page.tax-portfolioset #fp-nav ul li a span{background-color:#000000;}hr, .post.type-post, .comment .right, .widget_tag_cloud div a, .meta-tags a, .tag_cloud a, #footer, #post_more_wrapper, #page-content-wrapper .inner .sidebar-content, #page-content-wrapper .inner .sidebar-content.left-sidebar, .ajax_close, .ajax_next, .ajax_prev, .portfolio_next, .portfolio_prev, .portfolio_next_prev_wrapper.video .portfolio_prev, .portfolio_next_prev_wrapper.video .portfolio_next, .separated, .blog_next_prev_wrapper, #post_more_wrapper h5, #ajax_portfolio_wrapper.hidding, #ajax_portfolio_wrapper.visible, .tabs.vertical .ui-tabs-panel, .ui-tabs.vertical.right .ui-tabs-nav li, .woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, .woocommerce div.product .woocommerce-tabs .panel, .woocommerce-page div.product .woocommerce-tabs .panel, .woocommerce #content div.product .woocommerce-tabs .panel, .woocommerce-page #content div.product .woocommerce-tabs .panel, .woocommerce table.shop_table, .woocommerce-page table.shop_table, .woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals, .woocommerce .cart-collaterals .shipping_calculator, .woocommerce-page .cart-collaterals .shipping_calculator, .woocommerce .cart-collaterals .cart_totals tr td, .woocommerce .cart-collaterals .cart_totals tr th, .woocommerce-page .cart-collaterals .cart_totals tr td, .woocommerce-page .cart-collaterals .cart_totals tr th, table tr th, table tr td, .woocommerce #payment, .woocommerce-page #payment, .woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li, .woocommerce #payment div.form-row, .woocommerce-page #payment div.form-row, .ui-tabs li:first-child, .ui-tabs .ui-tabs-nav li, .ui-tabs.vertical .ui-tabs-nav li, .ui-tabs.vertical.right .ui-tabs-nav li.ui-state-active, .ui-tabs.vertical .ui-tabs-nav li:last-child, #page-content-wrapper .inner .sidebar-wrapper ul.sidebar-widget li.widget_nav_menu ul.menu li.current-menu-item a, .page-content-wrapper .inner .sidebar-wrapper ul.sidebar-widget li.widget_nav_menu ul.menu li.current-menu-item a, .ui-accordion .ui-accordion-header, .ui-accordion .ui-accordion-content, #page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle:before, h2.widgettitle:before, #autocomplete, .ppb_blog_minimal .one-third_bg, .tabs .ui-tabs-panel, .ui-tabs .ui-tabs-nav li, .ui-tabs li:first-child, .ui-tabs.vertical .ui-tabs-nav li:last-child, .woocommerce .woocommerce-ordering select, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page table.cart th, table.shop_table thead tr th, hr.title_break, .overlay_gallery_border, #page-content-wrapper.split #copyright, .page-content-wrapper.split #copyright, .post.type-post, .events.type-events, h5.event_title, .post-header h5.event_title, .client_archive_wrapper, #page-content-wrapper .sidebar .content .sidebar-widget li.widget, .page-content-wrapper .sidebar .content .sidebar-widget li.widget, hr.title_break.bold, blockquote, .social_share_button_wrapper, .social_share_button_wrapper, body:not(.single) .post-wrapper, .theme-border, #about-the-author, .related.products, .woocommerce div.product div.summary .product_meta, #single-course-meta ul.single-course-meta-data li.single-course-meta-data-separator, body .course-curriculum ul.curriculum-sections .section-header, .course-reviews-list li, .course-reviews-list-shortcode li, .wp-block-table, .wp-block-table td, .wp-block-table th, .wp-block-table.is-style-stripes td, .wp-block-table.is-style-stripes th, table, .widget_categories ul > li, .widget_pages ul > li, .widget_archive ul > li, #page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle:before, h2.widgettitle:before, #page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle:after, h2.widgettitle:after{border-color:#D8D8D8;}input[type=text], input[type=password], input[type=email], input[type=url], input[type=tel], input[type=date], textarea{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;}input[type=submit], input[type=button], a.button, .button, .woocommerce .page_slider a.button, a.button.fullwidth, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], .select2-container--default .select2-selection--single{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.7;text-transform:none;}input[type=text], input[type=password], input[type=email], input[type=url], input[type=tel], input[type=date], textarea, .widget_search form{background-color:#ffffff;}input[type=text], input[type=password], input[type=email], input[type=url], input[type=tel], input[type=date], textarea.widget_search input.search-field{color:#000000;}input[type=text], input[type=password], input[type=email], input[type=url], input[type=tel], input[type=date], textarea, .select2-container--default .select2-selection--single, .select2-dropdown, .widget_search form{border-color:#d8d8d8;}input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=url]:focus, input[type=date]:focus, textarea:focus, .widget_search form.focus{border-color:#000000;}.input-effect ~ .focus-border{background-color:#000000;}input[type=submit], input[type=button], a.button, .button, .woocommerce .page_slider a.button, a.button.fullwidth, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], body.learnpress-page #page-content-wrapper .order-recover .lp-button, .learnpress-page #learn-press-profile-basic-information button, body #page-content-wrapper p#lp-avatar-actions button, .learnpress-page #profile-content-settings form button[type=submit], button, .woocommerce #respond input#submit{font-family:Cabin;font-size:14px;font-weight:700;letter-spacing:0px;line-height:1.8;text-transform:none;}input[type=submit], input[type=button], a.button, .button, .woocommerce .page_slider a.button, a.button.fullwidth, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], a#go-to-top, .pagination span, .widget_tag_cloud div a, .pagination a, .pagination span, body.learnpress-page #page-content-wrapper .order-recover .lp-button, .learnpress-page #learn-press-profile-basic-information button, body #page-content-wrapper p#lp-avatar-actions button, .learnpress-page #profile-content-settings form button[type=submit], .learnpress-page #page-content-wrapper .lp-button, button, .woocommerce #respond input#submit{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;}input[type=submit], input[type=button], a.button, .button, .pagination span, .pagination a:hover, .woocommerce .footer-main-container .button, .woocommerce .footer-main-container .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .post-type-icon, .filter li a:hover, .filter li a.active, #portfolio_wall_filters li a.active, #portfolio_wall_filters li a:hover, .comment_box, .one-half.gallery2 .portfolio_type_wrapper, .one-third.gallery3 .portfolio_type_wrapper, .one_fourth.gallery4 .portfolio_type_wrapper, .one_fifth.gallery5 .portfolio_type_wrapper, .portfolio_type_wrapper, .widget_tag_cloud div a:hover, .ui-accordion .ui-accordion-header .ui-icon, .mobile-menu-wrapper #mobile-menu-close.button, .mobile-menu-wrapper #btn-close-mobile-menu, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], .learnpress-page #page-content-wrapper .lp-button, .learnpress-page #learn-press-profile-basic-information button, .learnpress-page #profile-content-settings form button[type=submit], button, .widget_search input#searchsubmit:hover, #wp-calendar caption, #wp-calendar thead th, #page-content-wrapper .sidebar .content .sidebar-widget li.widget_categories .cat-count, .widget_categories .cat-count, #page-content-wrapper .sidebar .content .sidebar-widget li.widget_archive .archive-count, .widget_archive .archive-count, .woocommerce #respond input#submit{background-color:#57B957;}.pagination span, .pagination a:hover, .button.ghost, .button.ghost:hover, .button.ghost:active, blockquote:after, .woocommerce-MyAccount-navigation ul li.is-active, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], .learnpress-page #page-content-wrapper .lp-button, .learnpress-page #learn-press-profile-basic-information button, .learnpress-page #profile-content-settings form button[type=submit], .widget_search input#searchsubmit:hover{border-color:#57B957;}.comment_box:before, .comment_box:after{border-top-color:#57B957;}.button.ghost, .button.ghost:hover, .button.ghost:active, .infinite_load_more, blockquote:before, .woocommerce-MyAccount-navigation ul li.is-active a, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], #page-content-wrapper .inner .sidebar-wrapper .sidebar-widget li.widget_recent_comments ul li.recentcomments a:not(.url){color:#57B957;}input[type=submit], input[type=button], a.button, .button, .pagination a:hover, .woocommerce .footer-main-container .button , .woocommerce .footer-main-container .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .post-type-icon, .filter li a:hover, .filter li a.active, #portfolio_wall_filters li a.active, #portfolio_wall_filters li a:hover, .comment_box, .one-half.gallery2 .portfolio_type_wrapper, .one-third.gallery3 .portfolio_type_wrapper, .one_fourth.gallery4 .portfolio_type_wrapper, .one_fifth.gallery5 .portfolio_type_wrapper, .portfolio_type_wrapper, .widget_tag_cloud div a:hover, .ui-accordion .ui-accordion-header .ui-icon, .mobile-menu-wrapper #mobile-menu-close.button, #go-to-top, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],.pagination span.current, .mobile-menu-wrapper #btn-close-mobile-menu, body.learnpress-page #page-content-wrapper .lp-button, .learnpress-page #learn-press-profile-basic-information button, .learnpress-page #profile-content-settings form button[type=submit], button, .widget_search input#searchsubmit:hover, #wp-calendar caption, #wp-calendar thead th, #page-content-wrapper .sidebar .content .sidebar-widget li.widget_categories .cat-count, .widget_categories .cat-count, #page-content-wrapper .sidebar .content .sidebar-widget li.widget_archive .archive-count, .widget_archive .archive-count, .woocommerce #respond input#submit{color:#ffffff;}input[type=submit], input[type=button], a.button, .button, .pagination a:hover, .woocommerce .footer-main-container .button , .woocommerce .footer-main-container .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .infinite_load_more, .widget_tag_cloud div a:hover, .mobile-menu-wrapper #btn-close-mobile-menu, .mobile-menu-wrapper #mobile-menu-close.button, body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapper input[type="submit"], body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"], .learnpress-page #learn-press-profile-basic-information button, .learnpress-page #profile-content-settings form button[type=submit], button, .woocommerce #respond input#submit{border-color:#57B957;}#wp-calendar tbody td#today{border-bottom-color:#57B957;}input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active, .black_bg input[type=submit], .learnpress-page #page-content-wrapper .lp-button:hover, .learnpress-page #learn-press-profile-basic-information button:hover, .learnpress-page #profile-content-settings form button[type=submit]:hover, .woocommerce #respond input#submit:hover{background-color:#ffffff;}input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active, .black_bg input[type=submit], body.learnpress-page #page-content-wrapper .lp-button:hover, .learnpress-page #learn-press-profile-basic-information button:hover, .learnpress-page #profile-content-settings form button[type=submit]:hover, button:hover, .woocommerce #respond input#submit:hover{color:#57B957;}input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active, .black_bg input[type=submit], .learnpress-page #learn-press-profile-basic-information button:hover, .learnpress-page #profile-content-settings form button[type=submit]:hover, button:hover, .woocommerce #respond input#submit:hover{border-color:#57B957;}.frame_top, .frame_bottom, .frame_left, .frame_right{background:#000000;}#menu-wrapper .nav ul li a, #menu-wrapper div .nav li > a, .menu-client-wrapper{font-family:Cabin;font-size:16px;font-weight:700;line-height:1.7;text-transform:none;}#menu-wrapper .nav ul li, #menu-wrapper div .nav li, html[data-menu=center-menu-logo] #logo-right-wrapper{padding-top:28px;padding-bottom:28px;}.top-menu-bar, html{background-color:#ffffff;}#menu-wrapper .nav ul li a, #menu-wrapper div .nav li > a, #mobile-nav-icon, #logo-wrapper .social-profile-wrapper ul li a, .menu-cart-wrapper a{color:#000000;}#mobile-nav-icon{border-color:#000000;}#menu-wrapper .nav ul li a.hover, #menu-wrapper .nav ul li a:hover, #menu-wrapper div .nav li a.hover, #menu-wrapper div .nav li a:hover, .menu-cart-wrapper a:hover, #page_share:hover, #logo-wrapper .social-profile-wrapper ul li a:hover{color:#57B957;}#menu-wrapper .nav ul li a:before, #menu-wrapper div .nav li > a:before{background-color:#57B957;}#menu-wrapper div .nav > li.current-menu-item > a, #menu-wrapper div .nav > li.current-menu-parent > a, #menu-wrapper div .nav > li.current-menu-ancestor > a, #menu-wrapper div .nav li ul:not(.sub-menu) li.current-menu-item a, #menu-wrapper div .nav li.current-menu-parent ul li.current-menu-item a, #logo-wrapper .social-profile-wrapper ul li a:active{color:#57B957;}.top-menu-bar, #nav-wrapper{border-color:#ffffff;}.menu-cart-wrapper .cart-counter{background-color:#57B957;color:#ffffff;}#menu-wrapper .nav ul li ul li a, #menu-wrapper div .nav li ul li a, #menu-wrapper div .nav li.current-menu-parent ul li a{font-family:Cabin;font-size:14px;font-weight:700;letter-spacing:0px;text-transform:none;}#menu-wrapper .nav ul li ul li a, #menu-wrapper div .nav li ul li a, #menu-wrapper div .nav li.current-menu-parent ul li a, #menu-wrapper div .nav li.current-menu-parent ul li.current-menu-item a, #menu-wrapper .nav ul li.megamenu ul li ul li a, #menu-wrapper div .nav li.megamenu ul li ul li a{color:#000000;}#menu-wrapper .nav ul li ul li a:hover, #menu-wrapper div .nav li ul li a:hover, #menu-wrapper div .nav li.current-menu-parent ul li a:hover, #menu-wrapper .nav ul li.megamenu ul li ul li a:hover, #menu-wrapper div .nav li.megamenu ul li ul li a:hover, #menu-wrapper .nav ul li.megamenu ul li ul li a:active, #menu-wrapper div .nav li.megamenu ul li ul li a:active, #menu-wrapper div .nav li.current-menu-parent ul li.current-menu-item a:hover{color:#57B957;}#menu-wrapper .nav ul li ul li a:before, #menu-wrapper div .nav li ul li > a:before, #wrapper.transparent .top-menu-bar:not(.scroll) #menu-wrapper div .nav ul li ul li a:before{background-color:#57B957;}#menu-wrapper .nav ul li ul, #menu-wrapper div .nav li ul{background:#ffffff;border-color:#ffffff;}#menu-wrapper div .nav li.megamenu ul li > a, #menu-wrapper div .nav li.megamenu ul li > a:hover, #menu-wrapper div .nav li.megamenu ul li > a:active, #menu-wrapper div .nav li.megamenu ul li.current-menu-item > a{color:#181B31;}#menu-wrapper div .nav li.megamenu ul li{border-color:#D8D8D8;}.above-top-menu-bar{background:#ffffff;}#top-menu li a, .top-contact-info, .top-contact-info i, .top-contact-info a, .top-contact-info a:hover, .top-contact-info a:active{color:#181B31;}.mobile-main-nav li a, #side-sub-menu li a{font-family:Cabin;font-size:20px;font-weight:700;letter-spacing:0px;line-height:2;text-transform:none;}#side-sub-menu li a{font-family:Cabin;font-size:20px;font-weight:700;letter-spacing:0px;line-height:2;text-transform:none;}.mobile-menu-wrapper{background-color:#ffffff;}.mobile-main-nav li a, #side-sub-menu li a, .mobile-menu-wrapper .sidebar-wrapper a, .mobile-menu-wrapper .sidebar-wrapper, #btn-close-mobile-menu i, .mobile-menu-wrapper .social-profile-wrapper ul li a, .fullmenu_content #copyright, .mobile-menu-wrapper .sidebar-wrapper h2.widgettitle{color:#181B31;}.mobile-main-nav li a:hover, .mobile-main-nav li a:active, #side-sub-menu li a:hover, #side-sub-menu li a:active, .mobile-menu-wrapper .social-profile-wrapper ul li a:hover{color:#57B957;}#page-header.hasbg{height:510px;}#page-header{background-color:#f9f9f9;padding-top:60px;padding-bottom:60px;margin-bottom:60px;}#page-header .page-title-wrapper .page-title-inner{text-align:center;}#page-header h1{font-family:Cabin;font-size:45px;font-weight:600;letter-spacing:0px;line-height:1.2;text-transform:none;color:#181b31;}.page-tagline, .post-detail.single-post{font-family:Roboto;font-size:14px;font-weight:500;text-transform:none;color:#7e8090;}#page-content-wrapper .sidebar .content .sidebar-widget li h2.widgettitle, h2.widgettitle, h5.widgettitle{font-family:Cabin;font-size:18px;font-weight:700;letter-spacing:0px;text-transform:none;color:#000000;border-color:#000000;}#page-content-wrapper .inner .sidebar-wrapper .sidebar .content, .page-content-wrapper .inner .sidebar-wrapper .sidebar .content{color:#000000;}#page-content-wrapper .inner .sidebar-wrapper a:not(.button), .page-content-wrapper .inner .sidebar-wrapper a:not(.button){color:#000000;}.widget_nav_menu ul > li.menu-item-has-children > a:after{border-color:#000000;}#page-content-wrapper .inner .sidebar-wrapper a:hover:not(.button), #page-content-wrapper .inner .sidebar-wrapper a:active:not(.button), .page-content-wrapper .inner .sidebar-wrapper a:hover:not(.button), .page-content-wrapper .inner .sidebar-wrapper a:active:not(.button){color:#57B957;}#footer{font-size:15px;}.footer-main-container-wrapper{font-size:13px;}.footer-main-container, #footer{background-color:#ffffff;}#footer, #copyright, #footer-menu li a, #footer-menu li a:hover, #footer-menu li a:active, #footer input[type=text], #footer input[type=password], #footer input[type=email], #footer input[type=url], #footer input[type=tel], #footer input[type=date], #footer textarea, #footer blockquote{color:#7E8090;}#copyright a, #copyright a:active, #footer a, #footer a:active#footer_photostream a{color:#181B31;}#footer .sidebar-widget li h2.widgettitle{border-color:#181B31;color:#181B31;}#copyright a:hover, #footer a:hover, .social-profile-wrapper ul li a:hover, #footer a:hover, #footer_photostream a:hover{color:#57B957;}#footer table tr td, #footer .widget_tag_cloud div a{border-color:#D8D8D8;}#footer table tbody tr:nth-child(even){background:#D8D8D8;}.footer-main-container{background-color:#ffffff;}.footer-main-container, #copyright{color:#181B31;}.footer-main-container a, #copyright a, #footer-menu li a{color:#181B31;}.footer-main-container a:hover, #copyright a:hover, #footer-menu li a:hover{color:#57B957;}.footer-main-container-wrapper, .footer-main-container{border-color:#D8D8D8;}.footer-main-container-wrapper .social-profile-wrapper ul li a{color:#181B31;}a#go-to-top{background:rgba(0,0,0,0.1);color:#ffffff;}#page-content-wrapper.blog-wrapper, .post-excerpt.post-tag a:after, .post-excerpt.post-tag a:before, .post-navigation .navigation-post-content{background-color:#ffffff;}.post-info-cat, .post-info-cat a{color:#57b957;border-color:#57b957;}.post-featured-image-hover .post-type-icon{background:#57b957;}.blog_post-content-wrapper.layout_grid .post-content-wrapper, .blog_post-content-wrapper.layout_masonry .post-content-wrapper, .blog_post-content-wrapper.layout_metro .post-content-wrapper, .blog_post-content-wrapper.layout_classic .post-content-wrapper{background:#ffffff;}.post-header h5, h6.subtitle, .post-caption h1, #page-content-wrapper .posts.blog li a, .page-content-wrapper .posts.blog li a, #post_featured_slider li .slider_image .slide_post h2, .post-header.grid h6, .sidebar-widget li.widget_recent_comments ul li.recentcomments a:not(.url), #page-content-wrapper .sidebar .content .sidebar-widget li.widget_rss ul li a.rsswidget, #footer-wrapper ul.sidebar-widget li.widget_rss ul li a.rsswidget{font-family:Cabin;font-weight:700;letter-spacing:0px;text-transform:none;}body.single-post #page-header h1{font-family:Cabin;font-size:45px;font-weight:600;letter-spacing:0px;line-height:1.3;text-transform:none;}body.single-post #page-content-wrapper.blog-wrapper, .post-related .post-header-wrapper{background:#ffffff;}.post-excerpt.post-tag a{background:#f0f0f0;color:#444;}.post-excerpt.post-tag a:after{border-left-color:#f0f0f0;}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAlata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNunito+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.0.15' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="https://aaapharma.in/wp-json/" /><link rel="alternate" type="application/json" href="https://aaapharma.in/wp-json/wp/v2/pages/4074" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aaapharma.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://aaapharma.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.7" />
+<link rel="canonical" href="https://aaapharma.in/" />
+<link rel='shortlink' href='https://aaapharma.in/' />
+<link rel="alternate" type="application/json+oembed" href="https://aaapharma.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faaapharma.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://aaapharma.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faaapharma.in%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css"></style><style id="loftloader-lite-custom-bg-color">#loftloader-wrapper .loader-section {
+	background: #ffffff;
+}
+</style><style id="loftloader-lite-custom-bg-opacity">#loftloader-wrapper .loader-section {
+	opacity: 0.85;
+}
+</style><style id="loftloader-lite-custom-loader">#loftloader-wrapper.pl-beating #loader {
+	color: #afca36;
+}
+</style>		<style type="text/css" id="wp-custom-css">
+			[pl_row pagelayer-id="fx6VGCBItkPWqE3r"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="https://aaapharma.in/wp-content/uploads/popularfx-templates/artville/images/other-pagebg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="414SCIiEtfWFo2DM"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="rCKNfwLGwEoBtBWl"  heading_state="normal" color="#ffffffff" heading_typo="Muli,66,,,,,Solid,,,," heading_typo_mobile=",50,,,,,Solid,,,,"]
+
+
+Contact[/pl_heading]
+[pl_divider pagelayer-id="vAIfLA8c1yIiYYVi"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="12" divider_gap="10" divider_alignment="left" divider_widht_mobile="20" divider_widht_tablet="15"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="f4UHnDQVINLu52SZ"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_col pagelayer-id="Ha7VtzTpJS28psOH"  widget_space="15" overlay_hover_delay="400"]
+[pl_google_maps pagelayer-id="9VKLpCo5v0YRYe77"  zoom="10" height="450" animation="fadeInUp" animation_delay="600"]
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="IANW4dbnjJjIs9GD"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="60px,0px,0px,0px" ele_padding="0px,0px,60px,0px"]
+[pl_col pagelayer-id="K4Qizt0g3XEOvuN3"  widget_space="15" overlay_hover_delay="400" col="6" ele_padding="0px,10px,0px,10px" ele_padding_tablet="0px,0px,0px,0px" animation="fadeInLeft" animation_delay="600"]
+[pl_heading pagelayer-id="HlRp7rlPgoQ0Orf6"  heading_state="normal" color="#111111" heading_typo="Muli,45,,,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,,"]
+
+
+Get In Touch[/pl_heading]
+[pl_divider pagelayer-id="rCNskoLxd2ip3Q3V"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="20" divider_gap="10" divider_alignment="left" divider_widht_mobile="20" divider_widht_tablet="15"]
+[/pl_divider]
+[pl_address pagelayer-id="cB1WUXeQGDyN0QjV"  icon="fas fa-map-marker-alt" icon_color="#2196f3ff" icon_size="30" space="10" typography="Poppins,16,,,,,Solid,1.6,,," color="#121212ff"]
+[/pl_address]
+[pl_phone pagelayer-id="FQSHIG3Sc9vwGql9"  icon="fas fa-mobile-alt" icon_color="#2196f3ff" icon_size="30" space="10" typography="Poppins,16,,,,,Solid,,,," ele_padding="0px,0px,0px,4px" ele_margin="16px,0px,0px,0px"]
+[/pl_phone]
+[pl_email pagelayer-id="huLbuz3qStEnvU8L"  icon="fas fa-envelope" icon_color="#2196f3ff" icon_size="26" space="7" typography="Poppins,16,,,,,Solid,,,," ele_margin="15px,0px,0px,0px"]
+[/pl_email]
+[pl_social_grp pagelayer-id="AgAsy6C69x01Cuz9"  align="left" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="0" icon_size="20" color_scheme="" icon_color="#ffffffff" social_hover_delay="400" icon_color_hover="#ffffff" bg_shape="pagelayer-social-shape-circle" bg_size="12" icon_bg_color="#2196f3ff" icon_bg_color_hover="#0986c0" ele_margin="20px,0px,0px,0px" ele_css="{{element}} .pagelayer-social{margin-right:8px; text-align:center;}"]
+[pl_social pagelayer-id="i7wJEShqOg1C2kpm"  icon="fab fa-facebook-f" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="89Y64lYnv0ffFyHv"  icon="fab fa-linkedin-in" social_url="https://www.linkedin.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="bivJBTJBw25mT06Y"  icon="fab fa-instagram" social_url="https://www.instagram.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="HYfM7ZKowm67HK8t"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad_editor"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="PC1Tx63aId5TrtlH"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_contact pagelayer-id="cBFx1HD7y1R532qF"  form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_state="normal" input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send Message" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" con_post_id="8606" input_height="25" placeholder_typo="Poppins,14,,,,,Solid,,,," form_placeholder_color="#212121ff" field_border_type="solid" field_border_color="#212121ff" field_border_width="1,1,1,1" field_state="" field_border_type_focus="solid" field_border_color_focus="#0986c0" field_border_width_focus="2,2,2,2" btn_bg_color="#ffffffff" btn_color="#2196f3ff" btn_custom_size="16,30" btn_border_type="solid" btn_border_color="#2196f3ff" btn_border_width="1,1,1,1" btn_border_radius="0,0,0,0" btn_typo="Poppins,14,,,,,Solid,,,," btn_hover="hover" btn_bg_color_hover="#2196f3ff" btn_color_hover="#ffffffff" ele_margin_tablet="20px,0px,0px,0px" ele_padding_tablet="0px,0px,60px,0px" ele_padding_mobile="0px,0px,60px,0px" ele_margin_mobile="30px,0px,0px,0px" animation="fadeInRight" animation_delay="600"]
+[pl_contact_item pagelayer-id="kbiudNHNCnoWqjH0"  label_name="Name" field_type="text" values="One
+Two" field_name="name" field_width="100" space_between=",,10," label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="uN9j6IPbV7WC1cCu"  label_name="Email" field_type="email" values="One
+Two" field_name="name" field_width="100" space_between=",,10," label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="DQc9TIJL8YWEmYfL"  label_name="Subject" field_type="text" values="One
+Two" field_name="Subject" field_width="100" space_between=",,10," label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="fdflCJJ0nETvcxrt"  label_name="Message" field_type="textarea" values="One
+Two" field_name="Subject" field_width="100" space_between=",,10," label_as_holder="true" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+
+
+/** Start Block Kit CSS: 72-3-34d2cc762876498c8f6be5405a48e6e2 **/
+
+.envato-block__preview{overflow: visible;}
+
+/*Kit 69 Custom Styling for buttons */
+.envato-kit-69-slide-btn .elementor-button,
+.envato-kit-69-cta-btn .elementor-button,
+.envato-kit-69-flip-btn .elementor-button{
+	border-left: 0px !important;
+	border-bottom: 0px !important;
+	border-right: 0px !important;
+	padding: 15px 0 0 !important;
+}
+.envato-kit-69-slide-btn .elementor-slide-button:hover,
+.envato-kit-69-cta-btn .elementor-button:hover,
+.envato-kit-69-flip-btn .elementor-button:hover{
+	margin-bottom: 20px;
+}
+.envato-kit-69-menu .elementor-nav-menu--main a:hover{
+	margin-top: -7px;
+	padding-top: 4px;
+	border-bottom: 1px solid #FFF;
+}
+/* Fix menu dropdown width */
+.envato-kit-69-menu .elementor-nav-menu--dropdown{
+	width: 100% !important;
+}
+
+/** End Block Kit CSS: 72-3-34d2cc762876498c8f6be5405a48e6e2 **/
+
+
+
+/** Start Block Kit CSS: 141-3-1d55f1e76be9fb1a8d9de88accbe962f **/
+
+.envato-kit-138-bracket .elementor-widget-container > *:before{
+	content:"[";
+	color:#ffab00;
+	display:inline-block;
+	margin-right:4px;
+	line-height:1em;
+	position:relative;
+	top:-1px;
+}
+
+.envato-kit-138-bracket .elementor-widget-container > *:after{
+	content:"]";
+	color:#ffab00;
+	display:inline-block;
+	margin-left:4px;
+	line-height:1em;
+	position:relative;
+	top:-1px;
+}
+
+/** End Block Kit CSS: 141-3-1d55f1e76be9fb1a8d9de88accbe962f **/
+
+
+
+/** Start Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
+
+.envato-block__preview{overflow: visible;}
+
+/* Envato Kit 141 Custom Styles - Applied to the element under Advanced */
+
+.elementor-headline-animation-type-drop-in .elementor-headline-dynamic-wrapper{
+	text-align: center;
+}
+.envato-kit-141-top-0 h1,
+.envato-kit-141-top-0 h2,
+.envato-kit-141-top-0 h3,
+.envato-kit-141-top-0 h4,
+.envato-kit-141-top-0 h5,
+.envato-kit-141-top-0 h6,
+.envato-kit-141-top-0 p {
+	margin-top: 0;
+}
+
+.envato-kit-141-newsletter-inline .elementor-field-textual.elementor-size-md {
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+
+.envato-kit-141-bottom-0 p {
+	margin-bottom: 0;
+}
+
+.envato-kit-141-bottom-8 .elementor-price-list .elementor-price-list-item .elementor-price-list-header {
+	margin-bottom: .5rem;
+}
+
+.envato-kit-141.elementor-widget-testimonial-carousel.elementor-pagination-type-bullets .swiper-container {
+	padding-bottom: 52px;
+}
+
+.envato-kit-141-display-inline {
+	display: inline-block;
+}
+
+.envato-kit-141 .elementor-slick-slider ul.slick-dots {
+	bottom: -40px;
+}
+
+/** End Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
+
+		</style>
+		</head>
+
+<body class="home page-template-default page page-id-4074 menu-transparent lightbox-black leftalign loftloader-lite-enabled elementor-default elementor-kit-30 elementor-page elementor-page-4074"><div id="loftloader-wrapper" class="pl-beating" data-show-close-time="15000" data-max-load-time="0"><div class="loader-inner"><div id="loader"><span></span></div></div><div class="loader-section section-fade"></div><div class="loader-close-button" style="display: none;"><span class="screen-reader-text">Close</span></div></div>
+		<div id="perspective" style="">
+	
+	<!-- Begin mobile menu -->
+<a id="btn-close-mobile-menu" href="javascript:;"></a>
+
+<div class="mobile-menu-wrapper">
+	
+	<div class="mobile-menu-content">
+    	
+		
+    <div class="menu-aaapharma-container"><ul id="mobile_main_menu" class="mobile-main-nav"><li id="menu-item-7434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4074 current_page_item menu-item-7434"><a href="https://aaapharma.in/" aria-current="page">Home</a></li>
+<li id="menu-item-8217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8217"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-7689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7689"><a href="https://aaapharma.in/founders/">Founder&#8217;s Words</a></li>
+	<li id="menu-item-7688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7688"><a href="https://aaapharma.in/key-management/">Key Management</a></li>
+	<li id="menu-item-7687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7687"><a href="https://aaapharma.in/lifeaaa/">Life@AAA</a></li>
+</ul>
+</li>
+<li id="menu-item-8041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8041"><a href="#">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-7552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7552"><a href="https://aaapharma.in/product/">Product List</a></li>
+	<li id="menu-item-8040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8040"><a href="https://aaapharma.in/our-unique-products/">Our Unique Products</a></li>
+</ul>
+</li>
+<li id="menu-item-7554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7554"><a href="https://aaapharma.in/career/">Career</a></li>
+<li id="menu-item-7553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7553"><a href="https://aaapharma.in/news-event/">News Event</a></li>
+<li id="menu-item-7436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7436"><a href="https://aaapharma.in/contact-us/">Contact Us</a></li>
+</ul></div>    
+        </div>
+</div>
+<!-- End mobile menu -->
+	<!-- Begin template wrapper -->
+		<div id="wrapper" class="hasbg transparent">
+	
+		<div id="elementor-header" class="main-menu-wrapper">
+				<div data-elementor-type="wp-post" data-elementor-id="3141" class="elementor elementor-3141" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-4398f8f elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4398f8f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f49fd9c" data-id="f49fd9c" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-419171e elementor-widget elementor-widget-image" data-id="419171e" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://aaapharma.in/">
+							<img width="400" height="107" src="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo-White.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo-White.png 400w, https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo-White-300x80.png 300w" sizes="(max-width: 400px) 100vw, 400px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-60aa1ba" data-id="60aa1ba" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bdc46b3 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-avante-navigation-menu" data-id="bdc46b3" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="avante-navigation-menu.default">
+				<div class="elementor-widget-container">
+			<div class="themegoods-navigation-wrapper menu_style1"><div class="menu-aaapharma-container"><ul id="nav_menu3" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4074 current_page_item'><a href="https://aaapharma.in/" >Home</a></li>
+<li class=' menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow'><a href="#" >About</a>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/founders/" >Founder's Words</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/key-management/" >Key Management</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/lifeaaa/" >Life@AAA</a></li>
+</ul>
+</li>
+<li class=' menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow'><a href="#" >Products</a>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/product/" >Product List</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/our-unique-products/" >Our Unique Products</a></li>
+</ul>
+</li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/career/" >Career</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/news-event/" >News Event</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/contact-us/" >Contact Us</a></li>
+</ul></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-505a75b elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="505a75b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ff4d48a" data-id="ff4d48a" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-712243b elementor-widget elementor-widget-image" data-id="712243b" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://aaapharma.in/">
+							<img width="400" height="107" src="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo.png 400w, https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo-300x80.png 300w" sizes="(max-width: 400px) 100vw, 400px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1bba4b2" data-id="1bba4b2" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-95276df elementor_mobile_nav elementor-view-default elementor-widget elementor-widget-icon" data-id="95276df" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-bars"></i>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+			</div>
+	<div id="elementor-sticky-header" class="main-menu-wrapper">
+				<div data-elementor-type="wp-post" data-elementor-id="3153" class="elementor elementor-3153" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-a63176a elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a63176a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-dcfa89e" data-id="dcfa89e" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6cce262 elementor-widget elementor-widget-image" data-id="6cce262" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://aaapharma.in/">
+							<img width="400" height="107" src="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo.png 400w, https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo-300x80.png 300w" sizes="(max-width: 400px) 100vw, 400px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d83c66d" data-id="d83c66d" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-736b4f8 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-avante-navigation-menu" data-id="736b4f8" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="avante-navigation-menu.default">
+				<div class="elementor-widget-container">
+			<div class="themegoods-navigation-wrapper menu_style1"><div class="menu-aaapharma-container"><ul id="nav_menu12" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4074 current_page_item'><a href="https://aaapharma.in/" >Home</a></li>
+<li class=' menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow'><a href="#" >About</a>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/founders/" >Founder's Words</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/key-management/" >Key Management</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/lifeaaa/" >Life@AAA</a></li>
+</ul>
+</li>
+<li class=' menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children arrow'><a href="#" >Products</a>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/product/" >Product List</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/our-unique-products/" >Our Unique Products</a></li>
+</ul>
+</li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/career/" >Career</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/news-event/" >News Event</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://aaapharma.in/contact-us/" >Contact Us</a></li>
+</ul></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9f3cfc9 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9f3cfc9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-26f20e6" data-id="26f20e6" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-47d997f elementor-widget elementor-widget-image" data-id="47d997f" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://aaapharma.in/">
+							<img width="400" height="107" src="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo.png 400w, https://aaapharma.in/wp-content/uploads/2019/10/AAA-Pharma-Logo-300x80.png 300w" sizes="(max-width: 400px) 100vw, 400px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7b3ade3" data-id="7b3ade3" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-86c96b7 elementor_mobile_nav elementor-view-default elementor-widget elementor-widget-icon" data-id="86c96b7" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-bars"></i>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+			</div>
+
+
+<!-- Begin content -->
+<div id="page-content-wrapper" class="">    <div class="inner">
+    	<!-- Begin main content -->
+    	<div class="inner-wrapper">
+    		<div class="sidebar-content fullwidth">
+    				
+    	
+    		    		<div data-elementor-type="wp-page" data-elementor-id="4074" class="elementor elementor-4074" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-fb7667e elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="fb7667e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-badcbdc" data-id="badcbdc" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7bef6e7 elementor-widget elementor-widget-avante-slider-parallax" data-id="7bef6e7" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="avante-slider-parallax.default">
+				<div class="elementor-widget-container">
+			<div class="slider-parallax-wrapper" data-autoplay="6000" data-pagination="1" data-navigation="0">
+	<div class="slider_parallax_inner">
+		<div class="slider_parallax_slides">
+						<div class="slide is-active ">
+		          	<div class="slide-content align-left">
+			          	<div class="standard-wrapper">
+			            	<div class="caption">
+								<div class="title"><h2>A trusted and rapidly growing name in the Pharma Industry</h2></div>
+								<div class="text">
+			                					              		</div> 
+				                			            	</div>
+			          	</div>
+		          	</div>
+				  	<div class="image-container"> 
+		            	<img src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-Banner.jpg" alt="" class="image" />
+		          	</div>
+		        </div>
+						<div class="slide  ">
+		          	<div class="slide-content align-left">
+			          	<div class="standard-wrapper">
+			            	<div class="caption">
+								<div class="title"><h2>Agility. Adaptability. Alignment</h2></div>
+								<div class="text">
+			                					              		</div> 
+				                			            	</div>
+			          	</div>
+		          	</div>
+				  	<div class="image-container"> 
+		            	<img src="https://aaapharma.in/wp-content/uploads/2020/11/aaaa.jpg" alt="" class="image" />
+		          	</div>
+		        </div>
+				</div>
+				<div class="pagination">
+					        <div class="item is-active"> 
+		          <span class="icon">1</span>
+		        </div>
+	        		        <div class="item "> 
+		          <span class="icon">2</span>
+		        </div>
+	        	    </div>
+	    	    	</div>
+</div>
+		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b1a9c78 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1a9c78" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-091affe" data-id="091affe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d799e4 elementor-widget elementor-widget-heading" data-id="6d799e4" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Why Choose AAA Pharma for your company?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3b14cce elementor-widget elementor-widget-text-editor" data-id="3b14cce" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>AAA Pharmatrade established a significant presence in the Pharmaceutical industry in India since our inception. Our strength has been a straightforward business approach that has maintained a steady focus on people &amp; pharma products, as its core.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9629d6a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9629d6a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0bdade" data-id="b0bdade" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-30330587 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30330587" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-72eba133" data-id="72eba133" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-51e63cb6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51e63cb6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-73251046" data-id="73251046" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-108fbce elementor-widget elementor-widget-image" data-id="108fbce" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS6-150x150.png" class="elementor-animation-pulse-grow attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS6.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS6-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-726a922 elementor-widget elementor-widget-heading" data-id="726a922" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">One Stop Formulation Source</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3442e8d0 elementor-widget elementor-widget-text-editor" data-id="3442e8d0" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Broad product range to  fulfill  customer requirement
+</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1aca3a2e" data-id="1aca3a2e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-df41d35 elementor-widget elementor-widget-image" data-id="df41d35" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS5-150x150.png" class="elementor-animation-pulse-grow attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS5.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS5-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5880622a elementor-widget elementor-widget-heading" data-id="5880622a" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Customer Service & Satisfaction</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-153b389e elementor-widget elementor-widget-text-editor" data-id="153b389e" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Strict adherence to demanding delivering schedules
+</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bc16c86" data-id="bc16c86" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fe2e97d elementor-widget elementor-widget-image" data-id="fe2e97d" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS4-150x150.png" class="elementor-animation-pulse-grow attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS4.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS4-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-18df6a11 elementor-widget elementor-widget-heading" data-id="18df6a11" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Modern, High-Tech Manufacturing Facilities</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1cfbce87 elementor-widget elementor-widget-text-editor" data-id="1cfbce87" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">   Compliance with the World Health Organization’s international norms</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5675b81 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5675b81" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4408168" data-id="4408168" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-f77b1fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f77b1fa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f891a58" data-id="f891a58" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bac7a84 elementor-widget elementor-widget-image" data-id="bac7a84" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS3-150x150.png" class="elementor-animation-pulse-grow attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS3.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS3-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ef8cfe6 elementor-widget elementor-widget-heading" data-id="ef8cfe6" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Internationally Recognized Quality Standards</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-317ef5e elementor-widget elementor-widget-text-editor" data-id="317ef5e" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Well equipped with Quality Control &#038; Quality assurance Laboratories</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1b88297" data-id="1b88297" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ac83ae2 elementor-widget elementor-widget-image" data-id="ac83ae2" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS2-150x150.png" class="elementor-animation-pulse-grow attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS2.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS2-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bb192e9 elementor-widget elementor-widget-heading" data-id="bb192e9" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Research & Development</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-62f5a9c elementor-widget elementor-widget-text-editor" data-id="62f5a9c" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Development of new formulations and constantly improving existing ones for stability and efficacy</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-652508a" data-id="652508a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c814094 elementor-widget elementor-widget-image" data-id="c814094" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS-1-150x150.png" class="elementor-animation-pulse-grow attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS-1.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS-1-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ed63cb6 elementor-widget elementor-widget-heading" data-id="ed63cb6" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default"> Large Scale Production Capacities
+</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-961a1f1 elementor-widget elementor-widget-text-editor" data-id="961a1f1" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Huge production capacities to ensure product availability at a short notice and at competitive prices</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b60a2b elementor-section-full_width elementor-section-height-min-height elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="0b60a2b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-69dd80d" data-id="69dd80d" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c7bf64f elementor-widget elementor-widget-heading" data-id="c7bf64f" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">To Keep the Body in Good Health is a Duty</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-16e489d elementor-widget elementor-widget-heading" data-id="16e489d" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">- The Buddha</h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1e46ff4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e46ff4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f9a224d" data-id="f9a224d" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-90fe0ac elementor-widget elementor-widget-heading" data-id="90fe0ac" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Therapy Focus</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-56f2991 elementor-widget elementor-widget-text-editor" data-id="56f2991" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><b>The major segments that we cater to are Nephrology, Neurological Disorders, Critical Care, Gynecology, Orthopedics, Gastroenterology, Urology, Respiratory and Cardiology.</b></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-17e18de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="17e18de" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-deb42fd" data-id="deb42fd" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-13e90cf elementor-widget elementor-widget-image" data-id="13e90cf" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/11/injection.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/11/injection.png 150w, https://aaapharma.in/wp-content/uploads/2020/11/injection-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-03ed710 elementor-widget elementor-widget-heading" data-id="03ed710" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Critical Care</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a425f73" data-id="a425f73" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ad21abd elementor-widget elementor-widget-image" data-id="ad21abd" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/11/Bandaid.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/11/Bandaid.png 150w, https://aaapharma.in/wp-content/uploads/2020/11/Bandaid-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6926300 elementor-widget elementor-widget-heading" data-id="6926300" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Advanced Wound Care</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d0c1441" data-id="d0c1441" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cb3b9f0 elementor-widget elementor-widget-image" data-id="cb3b9f0" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/11/Stomach.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/11/Stomach.png 150w, https://aaapharma.in/wp-content/uploads/2020/11/Stomach-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e820442 elementor-widget elementor-widget-heading" data-id="e820442" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Gastro/Hepato</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6a290fb" data-id="6a290fb" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-748832e elementor-widget elementor-widget-image" data-id="748832e" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS-Infection.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS-Infection.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/AAA-ICONS-Infection-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2be5988 elementor-widget elementor-widget-heading" data-id="2be5988" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Infectious Disease</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-777866d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="777866d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-86a4ca7" data-id="86a4ca7" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cd59c3e elementor-widget elementor-widget-image" data-id="cd59c3e" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/11/kidney.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/11/kidney.png 150w, https://aaapharma.in/wp-content/uploads/2020/11/kidney-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c52f88f elementor-widget elementor-widget-heading" data-id="c52f88f" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nephrology</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c658769" data-id="c658769" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-38ce7bb elementor-widget elementor-widget-image" data-id="38ce7bb" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/11/hair.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/11/hair.png 150w, https://aaapharma.in/wp-content/uploads/2020/11/hair-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a4beaa1 elementor-widget elementor-widget-heading" data-id="a4beaa1" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Skinceuticals</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c2247a0" data-id="c2247a0" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a5b28d6 elementor-widget elementor-widget-image" data-id="a5b28d6" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/gyancology.png" class="elementor-animation-pulse-grow attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/gyancology.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/gyancology-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e047bd5 elementor-widget elementor-widget-heading" data-id="e047bd5" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Gynecology</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7614677 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7614677" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-91529e1" data-id="91529e1" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dd91eb0 elementor-widget elementor-widget-heading" data-id="dd91eb0" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Products</h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9de373c elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="9de373c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d1b051" data-id="5d1b051" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c267ee0 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="c267ee0" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay_speed&quot;:4000,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aaapharma.in/wp-content/uploads/2020/11/Preda-MET.jpg" alt="Preda-MET" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aaapharma.in/wp-content/uploads/2020/11/Quesol_softgel.jpg" alt="Quesol_softgel" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aaapharma.in/wp-content/uploads/2020/11/Mero-AAA.jpg" alt="Mero-AAA" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aaapharma.in/wp-content/uploads/2020/11/Mero-EC.jpg" alt="Mero-EC" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f2cc425 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f2cc425" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b667414" data-id="b667414" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2475b31 elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2475b31" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_duration&quot;:400,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://aaapharma.in/product/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
+						<span class="elementor-button-text">View Product List</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-260005e" data-id="260005e" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fd67b3e elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="fd67b3e" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_duration&quot;:400,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://aaapharma.in/our-unique-products/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
+						<span class="elementor-button-text">View all Products</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e7b8980 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e7b8980" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-960f8ec" data-id="960f8ec" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7f4ebea elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="7f4ebea" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">AAA Pharma– A pharmaceutical Company which Delivers When it Matters the Most</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a931558 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a931558" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e034bdb" data-id="e034bdb" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ede9aa2 elementor-widget elementor-widget-image" data-id="ede9aa2" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:600,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.7,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.7,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/hospital.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/hospital.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/hospital-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2e45d5a elementor-widget elementor-widget-counter" data-id="2e45d5a" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="1000" data-to-value="500" data-from-value="0" data-delimiter=".">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+							<div class="elementor-counter-title"><br>Supplying to more than 500 Multi-Specialty Hospitals</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8bec570" data-id="8bec570" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3328d5a elementor-widget elementor-widget-image" data-id="3328d5a" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:600,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.7,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.7,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/delivery.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/delivery.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/delivery-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1fd3113 elementor-widget elementor-widget-counter" data-id="1fd3113" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="1000" data-to-value="100" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+							<div class="elementor-counter-title"><br>Associated with more than 100 CFA/Stockist/Distributors for unrelenting Supply Chain</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-96bd13b" data-id="96bd13b" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f34f3cd elementor-widget elementor-widget-image" data-id="f34f3cd" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:600,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.7,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.7,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://aaapharma.in/wp-content/uploads/2020/12/growth.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/12/growth.png 150w, https://aaapharma.in/wp-content/uploads/2020/12/growth-75x75.png 75w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a46df2b elementor-widget elementor-widget-counter" data-id="a46df2b" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="1000" data-to-value="17" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+							<div class="elementor-counter-title"><br>Presence in 17 States and growing</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dedb10d elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dedb10d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41efb89" data-id="41efb89" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9770aa elementor-widget__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="a9770aa" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">We are optimists who love to work</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c0b132e elementor-widget__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="c0b132e" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_duration&quot;:1000,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">together</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bbce998 elementor-align-center elementor-widget elementor-widget-button" data-id="bbce998" data-element_type="widget" data-settings="{&quot;avante_ext_is_smoove&quot;:&quot;true&quot;,&quot;avante_ext_smoove_disable&quot;:&quot;769&quot;,&quot;avante_ext_smoove_rotatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-140,&quot;sizes&quot;:[]},&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_smoove_duration&quot;:400,&quot;avante_ext_smoove_scalex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_scaley&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatey&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_rotatez&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_translatex&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewx&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_skewy&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;avante_ext_smoove_perspective&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://aaapharma.in/contact-us/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
+						<span class="elementor-button-text">Get In Touch</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+					<div class="comment_disable_clearer"></div>
+			    		</div>
+    	</div>
+    	<!-- End main content -->
+    </div>
+</div>
+</div>
+<div id="footer-wrapper">
+		<div data-elementor-type="wp-post" data-elementor-id="3274" class="elementor elementor-3274" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-f23d92f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f23d92f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_top&quot;:&quot;waves&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7
+	c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4
+	c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bcb49d0" data-id="bcb49d0" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4935c67 elementor-widget elementor-widget-image" data-id="4935c67" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://aaapharma.in/">
+							<img width="350" height="92" src="https://aaapharma.in/wp-content/uploads/2020/11/AAA.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://aaapharma.in/wp-content/uploads/2020/11/AAA.png 350w, https://aaapharma.in/wp-content/uploads/2020/11/AAA-300x79.png 300w" sizes="(max-width: 350px) 100vw, 350px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-542aa46" data-id="542aa46" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-368f182 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="368f182" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-14a49fb" data-id="14a49fb" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-871bcab elementor-widget elementor-widget-heading" data-id="871bcab" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Quick Links</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-927269e elementor-widget elementor-widget-text-editor" data-id="927269e" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul class="list"><li><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aaapharma.in/">Home</a></span></li><li><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aaapharma.in/founders/"> About Us</a></span></li><li><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aaapharma.in/product/"> Products</a></span></li></ul></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a67b387" data-id="a67b387" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-1dfa351 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1dfa351" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3caed88" data-id="3caed88" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9b1792a elementor-widget elementor-widget-heading" data-id="9b1792a" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Quick Links</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9c9af66 elementor-widget elementor-widget-text-editor" data-id="9c9af66" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul class="list"><li><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aaapharma.in/career/">Career</a></span></li><li><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aaapharma.in/news-event/"> News and Events</a></span></li><li><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aaapharma.in/contact-us/"> Contact Us</a></span></li></ul></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-57d3a0d" data-id="57d3a0d" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-78eb1da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78eb1da" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9628557" data-id="9628557" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-00e5fc4 elementor-widget elementor-widget-heading" data-id="00e5fc4" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Contact Now</h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-aad363a elementor-widget elementor-widget-heading" data-id="aad363a" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">AAA TOWER, B-93 | MAYAPURI INDUSTRIAL AREA |
+PHASE – 1 | NEW DELHI – 110064</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c4e680b elementor-widget elementor-widget-heading" data-id="c4e680b" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">HR Department-011 - 45082427</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ec2e3d1 elementor-widget elementor-widget-heading" data-id="ec2e3d1" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">C&F Sales Enquiry-011 - 47082427</h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0333f98 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0333f98" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a71b5c8" data-id="a71b5c8" data-element_type="column" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e4b6d42 elementor-widget elementor-widget-heading" data-id="e4b6d42" data-element_type="widget" data-settings="{&quot;avante_ext_is_scrollme&quot;:&quot;false&quot;,&quot;avante_ext_is_smoove&quot;:&quot;false&quot;,&quot;avante_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;avante_ext_is_infinite&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Copyright 2020-2021 by AAA Pharma PVT. LTD. | Designed with &hearts; by <a href="https://webocity.in">Webocity Technologies</a></span>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		</div>
+
+ 	<a id="go-to-top" href="javascript:;"><span class="ti-arrow-up"></span></a>
+
+
+
+</div>
+<link rel='stylesheet' id='elementor-post-3141-css'  href='https://aaapharma.in/wp-content/uploads/elementor/css/post-3141.css?ver=1620538399' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3153-css'  href='https://aaapharma.in/wp-content/uploads/elementor/css/post-3153.css?ver=1620538343' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3274-css'  href='https://aaapharma.in/wp-content/uploads/elementor/css/post-3274.css?ver=1613636479' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMuli%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.6.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/jquery.lazy.js?ver=5.6.7' id='lazy-js'></script>
+<script type='text/javascript' id='lazy-js-after'>
+		jQuery(function( $ ) {
+			jQuery("img.lazy").each(function() {
+				var currentImg = jQuery(this);
+				
+				jQuery(this).Lazy({
+					onFinishedAll: function() {
+						currentImg.parent("div.post-featured-image-hover").removeClass("lazy");
+						currentImg.parent(".tg_gallery_lightbox").parent("div.gallery_grid_item").removeClass("lazy");
+						currentImg.parent("div.gallery_grid_item").removeClass("lazy");
+			        }
+				});
+			});
+		});
+		
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/modulobox.js?ver=5.6.7' id='modulobox-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/jquery.parallax-scroll.js?ver=5.6.7' id='parallax-scroll-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/jquery.smoove.js?ver=5.6.7' id='smoove-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/parallax.js?ver=5.6.7' id='parallax-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/jquery.sticky-kit.min.js?ver=5.6.7' id='sticky-kit-js'></script>
+<script type='text/javascript' id='sticky-kit-js-after'>
+		jQuery(function( $ ) {
+			jQuery("#page-content-wrapper .sidebar-wrapper").stick_in_parent({ offset_top: 100 });
+			
+			if(jQuery(window).width() < 768 || is_touch_device())
+			{
+				jQuery("#page-content-wrapper .sidebar-wrapper").trigger("sticky_kit:detach");
+			}
+		});
+		
+</script>
+<script type='text/javascript' id='avante-elementor-js-extra'>
+/* <![CDATA[ */
+var tgAjax = {"ajaxurl":"https:\/\/aaapharma.in\/wp-admin\/admin-ajax.php","ajax_nonce":"f10501354a"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/avante-elementor.js?ver=5.6.7' id='avante-elementor-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/aaapharma.in\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/metform/public/assets/js/htm.js?ver=1.4.0' id='htm-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://aaapharma.in/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/dist/vendor/react.min.js?ver=16.13.1' id='react-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/dist/vendor/react-dom.min.js?ver=16.13.1' id='react-dom-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/dist/escape-html.min.js?ver=cf3ba719eafb9297c5843cfc50c8f87e' id='wp-escape-html-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/dist/element.min.js?ver=706303a9fd2fa288eac1331e8741b55b' id='wp-element-js'></script>
+<script type='text/javascript' id='metform-app-js-extra'>
+/* <![CDATA[ */
+var mf = {"postType":"page","restURI":"https:\/\/aaapharma.in\/wp-json\/metform\/v1\/forms\/views\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/metform/public/assets/js/app.js?ver=1.4.0' id='metform-app-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/jquery/ui/effect.min.js?ver=1.12.1' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/avante-elementor/assets/js/tweenmax.min.js?ver=5.6.7' id='tweenmax-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/themes/avante/js/waypoints.min.js?ver=5.6.7' id='waypoints-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/themes/avante/js/jquery.stellar.min.js?ver=5.6.7' id='stellar-js'></script>
+<script type='text/javascript' id='avante-custom-plugins-js-extra'>
+/* <![CDATA[ */
+var avantePluginParams = {"backTitle":"Back"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/themes/avante/js/core/custom_plugins.js?ver=5.6.7' id='avante-custom-plugins-js'></script>
+<script type='text/javascript' id='avante-custom-script-js-extra'>
+/* <![CDATA[ */
+var avanteParams = {"menulayout":"leftalign","fixedmenu":"1","footerreveal":"","headercontent":"content","lightboxthumbnails":"thumbnail","lightboxtimer":"7000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/themes/avante/js/core/custom.js?ver=5.6.7' id='avante-custom-script-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/themes/avante/js/jquery.tooltipster.min.js?ver=5.6.7' id='tooltipster-js'></script>
+<script type='text/javascript' id='tooltipster-js-after'>
+	jQuery(function( $ ) {
+		jQuery(".demotip").tooltipster({
+			position: "left",
+			multiple: true,
+			theme: "tooltipster-shadow",
+			delay: 0
+		});
+	});
+	
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/loftloader/assets/js/loftloader.min.js?ver=2020081301' id='loftloader-lite-front-main-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.6.7' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.6.7' id='wp-mediaelement-js'></script>
+<script type='text/javascript' id='epic-script-js-extra'>
+/* <![CDATA[ */
+var epicoption = {"prefix":"epic_module_ajax_","rtl":"0","admin_bar":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/epic-news-element/assets/js/script.min.js' id='epic-script-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-includes/js/wp-embed.min.js?ver=5.6.7' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/themes/avante/modules/kirki/assets/webfont.js?ver=3.0.21' id='webfont-loader-js'></script>
+<script type='text/javascript' id='webfont-loader-js-after'>
+WebFont.load({google:{families:['Roboto:400,500', 'Cabin:700,600']}});
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1' id='jquery-numerator-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.15' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.15' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.15","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/aaapharma.in\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4074,"title":"AAA%20PHARMA","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.15' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/epic-news-element/assets/js/admin/elementor-frontend.js' id='selectize-js'></script>
+<script type='text/javascript' src='https://aaapharma.in/wp-content/plugins/metform/controls/assets/js/form-picker-editor.js?ver=1.4.0' id='metform-js-formpicker-control-editor-js'></script>
+</body>
+</html>
